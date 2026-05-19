@@ -1,0 +1,58 @@
+{
+  "widths": [
+    4096,
+    4096,
+    4096,
+    4096,
+    4096,
+    4096
+  ],
+  "heights": [
+    4096,
+    4096,
+    4096,
+    4096,
+    4096,
+    4096
+  ],
+  "inputs": [
+    [
+      0,
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "outputs": [
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      5
+    ]
+  ],
+  "base_costs": [
+    65536,
+    32,
+    65536
+  ],
+  "op_types": [
+    "MatMul",
+    "Pointwise",
+    "MatMul"
+  ],
+  "fast_memory_capacity": 2000000,
+  "slow_memory_bandwidth": 150,
+  "native_granularity": [
+    128,
+    128
+  ]
+}

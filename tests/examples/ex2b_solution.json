@@ -1,0 +1,24 @@
+{
+  "subgraphs": [
+    [
+      0,
+      1
+    ]
+  ],
+  "granularities": [
+    [
+      128,
+      128,
+      1
+    ]
+  ],
+  "tensors_to_retain": [
+    []
+  ],
+  "traversal_orders": [
+    null
+  ],
+  "subgraph_latencies": [
+    13107.2
+  ]
+}
