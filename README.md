@@ -2,6 +2,8 @@
 
 TeamKorea's pattern-based solution for the [MLSys 2026 scheduling contest](https://github.com/yarongmu-google/MLSys).
 
+TeamKorea's agent-based solution, submitted to Track B, is available at [chnlee/TeamKorea](https://github.com/chnlee/TeamKorea).
+
 ## Build
 
 Requires cmake ≥ 3.16, ninja, g++ with C++20.
